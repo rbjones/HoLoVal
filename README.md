@@ -1,4 +1,4 @@
-# DA-Value
+# HoLoVal
 
 [![Join the chat at https://gitter.im/DA-Value/Lobby](https://badges.gitter.im/DA-Value/Lobby.svg)](https://gitter.im/DA-Value/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Developing a platform for value refinement and effective implementation.
